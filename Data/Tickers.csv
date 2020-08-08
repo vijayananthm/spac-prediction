@@ -1,0 +1,30 @@
+spac_symbol,merge_symbol,name,news_or_rumor_date,price_before_news,merge_date,spac_market_cap,trust_value_dollars,merger_company_value_billions,spac_target_sector,merging_company_sector
+GPAQ,HOFV,Gordon Pointe Acquisition Corp,5/26/2020,11,7/1/2020,31060000,10.81,0.4935,FinTech,Entertainment
+ARYA,IMTX,ARYA Sciences Acquisition Corp,3/17/2020,10.58,7/1/2020,148698960,10.34,1.4,Healthcare,Biotechnology
+PAAC,LGHL,Proficient Alpha Acquisition Corp,3/10/2020,10.11,6/16/2020,4586096,10.18,0.125,FinTech,Asset Management
+NEBU,LPRO,Nebula Acquisition Corp,5/18/2020,10.30,6/10/2020,250000000,10.26,1.8,Technology,Fintech
+VTIQ,NKLA,VectoIQ Acquisition Corp,3/3/2020,11.64,6/3/2020,200000000,10.33,3.5,Automotive,EV
+MUDS,HYMC,Mudric Capital Acquisition Corp,1/13/2020,10.37,5/29/2020,71842116,10.40,0.537,Mining,Mining
+DEAC,DKNG,Diamond Eagle Acquisiton Corp,12/23/2019,10.80,4/24/2020,403961209,10.10,2.7,Gaming/Entertainment,Gambling
+WRLS,AVCT,Pensare Acquisition Corp,7/25/2019,10.47,4/7/2020,1870000,10.89,0.021,Technology,Information Technology
+TIBR,IGIC,Tiberius Acquisition Corp,10/10/2019,10.26,3/17/2020,141000000,10.40,0.3765,Insurance,Insurance
+DDMX,BWMX,DD3 Acquisition Corp,8/2/2019,10.02,3/12/2020,57131598,10.27,0.323,Mexico,Mexico
+BWMC,ATCX,Boxwood Merger Corp,8/12/2019,10.04,2/14/2020,203027924,10.15,0.601,Industrial,Engineering and Construction
+MOSC,VVNT,Mosaic Acquisition Corp,9/15/2019,10.37,1/17/2020,354114460,10.26,4.2,Consumer/Retail,Security
+KBLM,N/A,KBL Merger Corp,5/14/2019,10.42,N/A,10279796,10.93,0.175,Healthcare,Pharma
+LACQ,N/A,Leisure Acquistion Corp,1/6/2020,10.44,N/A,13200000,10.47,1.1,Gaming/Travel/Recreation,Gambling
+OPES,N/A,Opes Acquisition Corp,1/8/2020,10.75,N/A,48473484,10.67,0.143,Not Specified,Restaurants
+FMCI,N/A,Forum Merger II Corp,5/13/2020,10.34,N/A,205552325,10.28,0.482,Not Specified,Food Industry
+SPAQ,N/A,Spartan Energy Acquisition,7/9/2020,10.81,N/A,568701305,10.30,2,Energy,EV
+CCH,N/A,Collier Creek Holdings,05/06/2020,10.9,N/A,452430869,10.28,1.56,Consumer,Food Industry
+INSU,N/A,Insurance Acquisition Corp,6/19/2020,10.23,N/A,153092198,10.16,0.415,Insurance,Consumer
+LCA,N/A,Landcladia Holdings II,6/29/2020,10.09,N/A,320008273,10.12,0.745,Consumer/Gaming/Entertainment,Gambling
+ORSN,N/A,Orisun Acquisition Corp,7/6/2020,10.09,N/A,44788686,10.09,0.769,Technology,RealEstate
+CCXX,N/A,Churchill Capital Corp III,7/12/2020,10.81,N/A,1103247041,10.03,11,Not Specified,Healthcare
+SHLL,N/A,Tortoise Acquisition Corp,6/19/2020,10.22,N/A,225000000,10,1.5,Energy,EV
+CRSA,N/A,Crescent Acquisition Corp,6/22/2020,10.16,N/A,287500000,10,0.845,FinTech,Fitness
+LHC,N/A,Leo Holding Corp,4/23/2020,10.35,N/A,269306000,10,0.757,Consumer,Marketing Technology
+BMRG,N/A,B.Riley Principal Merger Corp. II,6/24/20,9.85,N/A,254761900,10,0.29,Not Specified,Renewable Energy
+SAMA,N/A,Schultze Special Purpose Acquisition Corp,6/1/2020,10.19,N/A,169162500,10,0.12,Not Specified,Cannabis
+HCCH,N/A,HL Acquisition Corp,6/8/2020,10.85,N/A,9132250,10,0.097,Not Specified,Renewable Energy
+JFK,N/A,8i Enterprises Acquisition Corp,3/3/2020,10.14,N/A,67614350,10,0.276,Telecom/Media/Technology,FinTech
